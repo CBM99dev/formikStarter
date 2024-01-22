@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/formikStarter/static/js/main.5a68158b.chunk.js",
+    "main.js.map": "/formikStarter/static/js/main.5a68158b.chunk.js.map",
+    "runtime-main.js": "/formikStarter/static/js/runtime-main.7e851f27.js",
+    "runtime-main.js.map": "/formikStarter/static/js/runtime-main.7e851f27.js.map",
+    "static/js/2.a91d52d5.chunk.js": "/formikStarter/static/js/2.a91d52d5.chunk.js",
+    "static/js/2.a91d52d5.chunk.js.map": "/formikStarter/static/js/2.a91d52d5.chunk.js.map",
+    "index.html": "/formikStarter/index.html",
+    "static/js/2.a91d52d5.chunk.js.LICENSE.txt": "/formikStarter/static/js/2.a91d52d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e851f27.js",
+    "static/js/2.a91d52d5.chunk.js",
+    "static/js/main.5a68158b.chunk.js"
+  ]
+}
